@@ -1,0 +1,11 @@
+{
+  "name" : "Cookie4fbsac_browser",
+  "version" : "1",
+  "description" : "Ngambil Cookies untuk fbsac versi browser, Created by tulisanlain",
+  "permissions": [ "cookies","<all_urls>"],
+  "browser_action": {
+    "default_icon": "cookie.png",
+    "default_popup":"popup.html"
+  },
+  "manifest_version": 2
+}
